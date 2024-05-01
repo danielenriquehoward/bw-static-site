@@ -1,290 +1,290 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/bw-static-site/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/work/magnum-foundation-rebrand/</loc>
+		<loc>/bw-static-site/work/magnum-foundation-rebrand/</loc>
 		<lastmod>2022-10-31T18:32:53+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-magnum-foundation-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-magnum-foundation-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/gobreck/</loc>
+		<loc>/bw-static-site/work/gobreck/</loc>
 		<lastmod>2024-03-08T15:31:10+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-go-breck-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-go-breck-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/see-your-city-marketing-and-advertising/</loc>
+		<loc>/bw-static-site/work/see-your-city-marketing-and-advertising/</loc>
 		<lastmod>2024-03-08T15:32:05+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-nycgo-see-your-city-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-nycgo-see-your-city-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/danville-california-destination-marketing/</loc>
+		<loc>/bw-static-site/work/danville-california-destination-marketing/</loc>
 		<lastmod>2024-03-08T15:32:34+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-danville-ca-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-danville-ca-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/detroit-is-the-new-black-fashion-marketing/</loc>
+		<loc>/bw-static-site/work/detroit-is-the-new-black-fashion-marketing/</loc>
 		<lastmod>2024-03-08T15:36:13+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/09/detroit-is-the-new-black-brand-design-index-image-01.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2017/09/detroit-is-the-new-black-brand-design-index-image-01.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/philadelphia-shared-prosperity-annual-report/</loc>
+		<loc>/bw-static-site/work/philadelphia-shared-prosperity-annual-report/</loc>
 		<lastmod>2024-03-08T15:36:37+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/12/philadelphia-shared-properity-report-index-image-01.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2017/12/philadelphia-shared-properity-report-index-image-01.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/nyc-city-branding/</loc>
+		<loc>/bw-static-site/work/nyc-city-branding/</loc>
 		<lastmod>2024-03-08T15:37:17+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-nycgo-brand-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-nycgo-brand-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/aperture-rebranding/</loc>
+		<loc>/bw-static-site/work/aperture-rebranding/</loc>
 		<lastmod>2024-03-08T15:37:57+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-aperture-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-aperture-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/onenyc-2019/</loc>
+		<loc>/bw-static-site/work/onenyc-2019/</loc>
 		<lastmod>2024-03-08T15:38:49+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-onenyc-2050-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-onenyc-2050-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/nyc-pride-event-marketing/</loc>
+		<loc>/bw-static-site/work/nyc-pride-event-marketing/</loc>
 		<lastmod>2024-03-08T15:47:04+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/09/nyc-pride-orlando-commemoration-design.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2017/09/nyc-pride-orlando-commemoration-design.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/see-it-for-yourself-tourism-campaign/</loc>
+		<loc>/bw-static-site/work/see-it-for-yourself-tourism-campaign/</loc>
 		<lastmod>2024-03-08T15:51:02+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-see-it-for-yourself-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-see-it-for-yourself-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/dcas-agency-branding/</loc>
+		<loc>/bw-static-site/work/dcas-agency-branding/</loc>
 		<lastmod>2024-03-08T15:53:10+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2018/03/nyc-dcas-brand-design-overview-banner.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2018/03/nyc-dcas-brand-design-overview-banner.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/nyc-kids-rise-non-profit-branding/</loc>
+		<loc>/bw-static-site/work/nyc-kids-rise-non-profit-branding/</loc>
 		<lastmod>2024-03-08T15:54:23+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-nyc-kids-rise-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-nyc-kids-rise-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/onenyc-report-design/</loc>
+		<loc>/bw-static-site/work/onenyc-report-design/</loc>
 		<lastmod>2024-03-08T15:55:30+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/09/one-nyc-report-design-overview-banner.png</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2017/09/one-nyc-report-design-overview-banner.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/new-york-works-report-design/</loc>
+		<loc>/bw-static-site/work/new-york-works-report-design/</loc>
 		<lastmod>2024-03-08T15:56:22+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/09/new-york-works-report-design-overview-banner.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2017/09/new-york-works-report-design-overview-banner.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/nyc-green-infrastructure/</loc>
+		<loc>/bw-static-site/work/nyc-green-infrastructure/</loc>
 		<lastmod>2024-03-08T15:57:15+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2018/07/nyc-green-infrastructure-design-overview-banner.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2018/07/nyc-green-infrastructure-design-overview-banner.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/nycgo-web-design-new-york/</loc>
+		<loc>/bw-static-site/work/nycgo-web-design-new-york/</loc>
 		<lastmod>2024-04-02T21:31:32+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/09/webbby-nycgo-website-design-overview-banner-2017.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2017/09/webbby-nycgo-website-design-overview-banner-2017.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/metroplushealth-spatial-environmental/</loc>
+		<loc>/bw-static-site/work/metroplushealth-spatial-environmental/</loc>
 		<lastmod>2024-04-03T20:16:18+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/mph-casetudy-spacial-19.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2024/02/mph-casetudy-spacial-19.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/discover-nepa/</loc>
+		<loc>/bw-static-site/work/discover-nepa/</loc>
 		<lastmod>2024-04-03T21:54:28+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/nepa-casestudy-06.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2024/03/nepa-casestudy-06.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/metro-plus-health-rebrand/</loc>
+		<loc>/bw-static-site/work/metro-plus-health-rebrand/</loc>
 		<lastmod>2024-04-05T18:22:37+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/bellweather-metroplus-health-wildposting.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2024/02/bellweather-metroplus-health-wildposting.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/metroplushealth-campaigns/</loc>
+		<loc>/bw-static-site/work/metroplushealth-campaigns/</loc>
 		<lastmod>2024-04-05T18:26:37+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/MPH_CaseStudy_Fall23_04.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2024/03/MPH_CaseStudy_Fall23_04.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/bric/</loc>
+		<loc>/bw-static-site/work/bric/</loc>
 		<lastmod>2024-04-09T12:08:58+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/bellweather-bric-desktop-watch-listen.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2023/10/bellweather-bric-desktop-watch-listen.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/discover-halifax/</loc>
+		<loc>/bw-static-site/work/discover-halifax/</loc>
 		<lastmod>2024-04-12T15:08:11+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/BW_HFX_CaseStudy_01-1.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2023/06/BW_HFX_CaseStudy_01-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/metroplushealth-website/</loc>
+		<loc>/bw-static-site/work/metroplushealth-website/</loc>
 		<lastmod>2024-04-12T15:22:31+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/mph-casestudy-web-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2024/03/mph-casestudy-web-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/nyc-votes-2023-campaigns/</loc>
+		<loc>/bw-static-site/work/nyc-votes-2023-campaigns/</loc>
 		<lastmod>2024-04-12T15:29:44+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/nycv-casestudy-ge23-00-1.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2024/03/nycv-casestudy-ge23-00-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/be-smart-gun-safety-campaign/</loc>
+		<loc>/bw-static-site/work/be-smart-gun-safety-campaign/</loc>
 		<lastmod>2024-04-12T15:36:31+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-everytown-for-gun-safety-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-everytown-for-gun-safety-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/calkids-website/</loc>
+		<loc>/bw-static-site/work/calkids-website/</loc>
 		<lastmod>2024-04-12T15:43:02+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-calkids-529-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-calkids-529-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/nyc-votes-election-campaign/</loc>
+		<loc>/bw-static-site/work/nyc-votes-election-campaign/</loc>
 		<lastmod>2024-04-12T15:54:52+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-nycvotes-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-nycvotes-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/brooklyn-public-library-125th-anniversary-campaign/</loc>
+		<loc>/bw-static-site/work/brooklyn-public-library-125th-anniversary-campaign/</loc>
 		<lastmod>2024-04-12T16:20:51+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-brooklyn-public-library-125-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-brooklyn-public-library-125-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/onebreckenridge/</loc>
+		<loc>/bw-static-site/work/onebreckenridge/</loc>
 		<lastmod>2024-04-12T16:22:07+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/bellweather-one-breckenridge-index-2.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/08/bellweather-one-breckenridge-index-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/visit-alexandria-website/</loc>
+		<loc>/bw-static-site/work/visit-alexandria-website/</loc>
 		<lastmod>2024-04-12T16:24:20+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-visit-alexandria-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-visit-alexandria-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/visit-baltimore-campaign-city-branding/</loc>
+		<loc>/bw-static-site/work/visit-baltimore-campaign-city-branding/</loc>
 		<lastmod>2024-04-12T16:27:07+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-visit-baltimore-brand-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-visit-baltimore-brand-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/baltimores-bop-pass/</loc>
+		<loc>/bw-static-site/work/baltimores-bop-pass/</loc>
 		<lastmod>2024-04-12T16:34:23+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-visit-baltimore-bop-pass-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-visit-baltimore-bop-pass-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/brooklyn-bridge-park-website/</loc>
+		<loc>/bw-static-site/work/brooklyn-bridge-park-website/</loc>
 		<lastmod>2024-04-12T16:44:47+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-brooklyn-bridge-park-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-brooklyn-bridge-park-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/napa-valley-website/</loc>
+		<loc>/bw-static-site/work/napa-valley-website/</loc>
 		<lastmod>2024-04-12T16:48:42+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-visit-napa-valley-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-visit-napa-valley-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/brooklyn-public-library-for-brooklyn-campaign/</loc>
+		<loc>/bw-static-site/work/brooklyn-public-library-for-brooklyn-campaign/</loc>
 		<lastmod>2024-04-12T16:53:02+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/01/brooklyn-public-library-advertising-campaign-index-image-01.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2019/01/brooklyn-public-library-advertising-campaign-index-image-01.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/visit-baltimore-website-2/</loc>
+		<loc>/bw-static-site/work/visit-baltimore-website-2/</loc>
 		<lastmod>2024-04-12T16:56:38+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/04/baltimore-website-design-index-image-02.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2020/04/baltimore-website-design-index-image-02.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/greater-baltimore-local-tourism-campaign/</loc>
+		<loc>/bw-static-site/work/greater-baltimore-local-tourism-campaign/</loc>
 		<lastmod>2024-04-12T16:58:42+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-greater-baltimore-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-greater-baltimore-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/nyc-world-pride-stonewall-50-advertising-campaign/</loc>
+		<loc>/bw-static-site/work/nyc-world-pride-stonewall-50-advertising-campaign/</loc>
 		<lastmod>2024-04-12T17:08:52+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-world-pride-2019-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-world-pride-2019-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/baltimore-x-ciaa/</loc>
+		<loc>/bw-static-site/work/baltimore-x-ciaa/</loc>
 		<lastmod>2024-04-12T17:16:17+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-visit-baltimore-ciaa-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-visit-baltimore-ciaa-index.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/work/provincetown-destination-website/</loc>
+		<loc>/bw-static-site/work/provincetown-destination-website/</loc>
 		<lastmod>2024-04-12T17:19:23+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/bellweather-provincetown-ma-index.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2022/10/bellweather-provincetown-ma-index.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

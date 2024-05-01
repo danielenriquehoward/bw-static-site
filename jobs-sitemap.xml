@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/bw-static-site/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/jobs/project-manager-contract/</loc>
+		<loc>/bw-static-site/jobs/project-manager-contract/</loc>
 		<lastmod>2023-03-28T21:09:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jobs/graphic-designer-freelance/</loc>
+		<loc>/bw-static-site/jobs/graphic-designer-freelance/</loc>
 		<lastmod>2023-03-28T21:41:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jobs/market-research-facilitator-freelance-2/</loc>
+		<loc>/bw-static-site/jobs/market-research-facilitator-freelance-2/</loc>
 		<lastmod>2023-09-21T18:42:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jobs/social-media-strategist-freelance/</loc>
+		<loc>/bw-static-site/jobs/social-media-strategist-freelance/</loc>
 		<lastmod>2023-12-01T21:06:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jobs/content-writer-freelance/</loc>
+		<loc>/bw-static-site/jobs/content-writer-freelance/</loc>
 		<lastmod>2023-12-01T21:13:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jobs/copy-editor-freelance/</loc>
+		<loc>/bw-static-site/jobs/copy-editor-freelance/</loc>
 		<lastmod>2023-12-01T21:25:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jobs/copywriter-freelance/</loc>
+		<loc>/bw-static-site/jobs/copywriter-freelance/</loc>
 		<lastmod>2023-12-01T21:34:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jobs/strategist/</loc>
+		<loc>/bw-static-site/jobs/strategist/</loc>
 		<lastmod>2023-12-05T16:18:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jobs/content-writer-freelance-2/</loc>
+		<loc>/bw-static-site/jobs/content-writer-freelance-2/</loc>
 		<lastmod>2024-04-15T16:06:32+00:00</lastmod>
 	</url>
 </urlset>

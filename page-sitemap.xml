@@ -1,78 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/bw-static-site/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>/bw-static-site/</loc>
 		<lastmod>2024-04-03T16:43:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/contact/</loc>
+		<loc>/bw-static-site/contact/</loc>
 		<lastmod>2022-02-23T20:32:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/news/</loc>
+		<loc>/bw-static-site/news/</loc>
 		<lastmod>2022-09-24T20:00:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/privacy/</loc>
+		<loc>/bw-static-site/privacy/</loc>
 		<lastmod>2022-10-25T21:49:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/about/team/</loc>
+		<loc>/bw-static-site/about/team/</loc>
 		<lastmod>2024-03-12T18:14:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/about/history/</loc>
+		<loc>/bw-static-site/about/history/</loc>
 		<lastmod>2024-03-12T18:19:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/work/</loc>
+		<loc>/bw-static-site/work/</loc>
 		<lastmod>2024-03-21T20:54:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/about/method/</loc>
+		<loc>/bw-static-site/about/method/</loc>
 		<lastmod>2024-03-28T18:11:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/about/</loc>
+		<loc>/bw-static-site/about/</loc>
 		<lastmod>2024-04-02T20:54:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jobs/</loc>
+		<loc>/bw-static-site/jobs/</loc>
 		<lastmod>2024-04-03T16:37:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/capabilities/strategy/</loc>
+		<loc>/bw-static-site/capabilities/strategy/</loc>
 		<lastmod>2024-04-04T16:24:57+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/bw-strategy-hero.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2024/03/bw-strategy-hero.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/capabilities/development/</loc>
+		<loc>/bw-static-site/capabilities/development/</loc>
 		<lastmod>2024-04-04T18:05:53+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/bellweather-capabilities-deveopment.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2024/04/bellweather-capabilities-deveopment.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/capabilities/support/</loc>
+		<loc>/bw-static-site/capabilities/support/</loc>
 		<lastmod>2024-04-04T19:15:19+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/bellweather-capabilities-post-launch-support.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2024/04/bellweather-capabilities-post-launch-support.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/capabilities/</loc>
+		<loc>/bw-static-site/capabilities/</loc>
 		<lastmod>2024-04-05T16:07:17+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/bellweather-capabilities.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2024/04/bellweather-capabilities.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/capabilities/creative/</loc>
+		<loc>/bw-static-site/capabilities/creative/</loc>
 		<lastmod>2024-04-05T16:07:29+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/bellweather-capabilities-creative.jpg</image:loc>
+			<image:loc>/bw-static-site/wp-content/uploads/2024/04/bellweather-capabilities-creative.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
